@@ -5,7 +5,7 @@
 I am a technology enthusiast and problem solver with a strong interest in understanding systems at a deeper level. My curiosity drives me to explore how software is designed, how systems interact, how security is implemented, and how ideas evolve into reliable, real-world solutions.
 <br>
 ## 💫 About Me:
-🔭 I’m currently working on : Real-time Threat Detection AI<br><br>🌱 I’m currently learning : Cybersecurity & Ethical Hacking | AI & ML<br><br>👨‍💻 All of my projects are available at : ABHI02G<br><br>📫 How to reach me : abhinavagowda802@gmail.com
+🔭 I’m currently working on : SSH Brute Force Detection<br><br>🌱 I’m currently learning : Cybersecurity & Ethical Hacking | AI & ML<br><br>👨‍💻 All of my projects are available at : ABHI02G<br><br>📫 How to reach me : abhinavagowda802@gmail.com
 
 
 ## 🌐 Socials:
